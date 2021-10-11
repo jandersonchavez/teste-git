@@ -1,1 +1,1 @@
-Espaço utilizado para testar o git e github usando um editor de texto remoto conheido como gitpod.
+Espaço utilizado para testar o git e o github usando um editor de texto remoto conhecido como gitpod que tem uma aparência parecida com o VSCode.
